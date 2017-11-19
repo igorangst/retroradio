@@ -1,0 +1,17 @@
+* Switch poti: 
+  - Power up / shut down pi [UP/DOWN]
+  - Power amp volume control
+* Left rotary encoder:
+  - Switch: play / stop music library [MUSIC PLAY/STOP]
+  - Left/right: next / previous [NEXT/PREV]
+* Right rotary encoder:
+  - Switch: play  stop web radio [RADIO PLAY/STOP]
+  - Left/right: next / previous station [NEXT/PREV]
+* Right poti:
+  - Colour scheme for back RGB back lighting LED
+* Shock sensor:
+  - Shuffle + next (song or radio station) [SHUFFLE]
+
+* Messages from Pi:
+  - After startup: [UP]
+  - Software shutdown: [DOWN]
